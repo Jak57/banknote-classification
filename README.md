@@ -4,4 +4,6 @@ Classification of Bangladeshi Bank Notes Using Transformer
 # Resources
 * https://www.kaggle.com/datasets/rahnumatasnim1604103/bangladeshi-banknote-dataset - Bangladeshi Banknote Dataset
 * https://towardsdatascience.com/image-classification-with-vision-transformer-8bfde8e541d4#:~:text=In%202020%2C%20Google%20Brain%20team,on%20several%20image%20classification%20benchmarks.
-* https://openaccess.thecvf.com/content/CVPR2021/html/Lanchantin_General_Multi-Label_Image_Classification_With_Transformers_CVPR_2021_paper.html
+* https://www.youtube.com/watch?v=j-3vuBynnOE&ab_channel=sentdex Loading image dataset
+* https://huggingface.co/docs/transformers/tasks/image_classification - Hugging Face tutorial of ViT
+* https://www.linkedin.com/pulse/mastering-image-classification-vision-transformers-vit-ayoub-kirouane/
