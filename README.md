@@ -8,6 +8,7 @@ Classification of Bangladeshi Bank Notes Using Transformer
 * [Coinnet: platform independent application to recognize Indian currency notes using deep learning techniques - 2020](https://link.springer.com/article/10.1007/s11042-020-09031-0)
 * [Image classification via fine-tuning with EfficientNet - 2023](https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/)
 * [EfficientNet github - 2023](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
+* [Bangladeshi Paper Currency Recognition Using Lightweight CNN Architectures - 2022](https://ieeexplore.ieee.org/abstract/document/9936749)
 
 # Dataset
 * Kaggle
