@@ -6,6 +6,7 @@ Classification of Bangladeshi Bank Notes Using Transformer
 * [Automated System for Indian Banknote Recognition using Image Processing and Deep Learning - 2020](https://ieeexplore.ieee.org/abstract/document/9132850)
 * [Vision Based System for Banknote Recognition Using Different Machine Learning and Deep Learning Approach - 2019](https://ieeexplore.ieee.org/abstract/document/8837068)
 * [Coinnet: platform independent application to recognize Indian currency notes using deep learning techniques - 2020](https://link.springer.com/article/10.1007/s11042-020-09031-0)
+* [Image classification via fine-tuning with EfficientNet - 2023](https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/)
 
 # Dataset
 * Kaggle
