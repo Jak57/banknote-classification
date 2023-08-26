@@ -1,3 +1,8 @@
+# Paper 1: 2022 (BRAC - Not Public)
+Bangladeshi Paper Currency Recognition Using Lightweight CNN Architectures
+---------------------------------------------------
+In this paper, the authors have avant-grade convolutional neural network (CNN) models with transfer learning to classify Bangladeshi currency. They used publicly available dataset and obtained an accuracy of 99.97%.
+
 # Paper 5: 2021 (CUET)
 Bangladeshi Banknote Recognition in Real-time 
 using Convolutional Neural Network for Visually
