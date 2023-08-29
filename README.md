@@ -33,3 +33,4 @@ Classification of Bangladeshi Bank Notes Using Transformer
 * https://www.youtube.com/watch?v=j-3vuBynnOE&ab_channel=sentdex Loading image dataset
 * https://huggingface.co/docs/transformers/tasks/image_classification - Hugging Face tutorial of ViT
 * https://www.linkedin.com/pulse/mastering-image-classification-vision-transformers-vit-ayoub-kirouane/
+* [Data augmentation](https://www.youtube.com/watch?v=mygPhlH8un0&ab_channel=NachiketaHebbar)
