@@ -27,6 +27,7 @@ Classification of Bangladeshi Bank Notes Using Transformer
 * Custom Dataset
    * [Jakir - 334](https://drive.google.com/drive/folders/1A-emvHInq6U5IoQwivbXFYNp89hgwybR)
    * [Arnob - 692](https://drive.google.com/drive/folders/1v1WkuJS1a25bVe3NvwG8L_cUYRlfV3xr)
+   * [Combined 1041](https://drive.google.com/drive/folders/1vjSoJJ5aV_2BY3eE5cmgQrrhchQgPe54?usp=sharing)
 # Resources
 * https://towardsdatascience.com/image-classification-with-vision-transformer-8bfde8e541d4#:~:text=In%202020%2C%20Google%20Brain%20team,on%20several%20image%20classification%20benchmarks.
 * https://www.youtube.com/watch?v=j-3vuBynnOE&ab_channel=sentdex Loading image dataset
