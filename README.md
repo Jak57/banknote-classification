@@ -39,3 +39,7 @@ Classification of Bangladeshi Bank Notes Using Transformer
 # Slide and Report
 * [Link](https://drive.google.com/drive/folders/1uYZpcpIx2JTVcOjUkUf3sWbWna7x5_RY?usp=sharing)
 
+# Contributors
+* Fuadul Islam Arnob - 2018331024
+* Jakir Hasan - 2018331057
+
