@@ -35,3 +35,6 @@ Classification of Bangladeshi Bank Notes Using Transformer
 * https://www.linkedin.com/pulse/mastering-image-classification-vision-transformers-vit-ayoub-kirouane/
 * [Data augmentation](https://www.youtube.com/watch?v=mygPhlH8un0&ab_channel=NachiketaHebbar)
 
+# Slide and Report
+* [Link](https://drive.google.com/drive/folders/1uYZpcpIx2JTVcOjUkUf3sWbWna7x5_RY?usp=sharing)
+
